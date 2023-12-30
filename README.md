@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GiangHM
-- 👀 I’m interested in software development
+- 👋 Hi, I'm Giang.
+- A Vietnamese developer who's interested in  C#, .Net, Cloud computing and software development
 
 
 <!---
